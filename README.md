@@ -2,8 +2,8 @@ This was my first React Native project, through which I gained hands-on experien
  Screenshots
 
 <p float="left">
-  <img src="assets/12.png" width="200"/>
-  <img src="assets/13.png" width="200"/>
-  <img src="assets/14.png" width="200"/>
+  <img src="src/assets/12.png" width="200"/>
+  <img src="src/assets/13.png" width="200"/>
+  <img src="src/assets/14.png" width="200"/>
 </p>
 ![Home](./assets/12.png)
