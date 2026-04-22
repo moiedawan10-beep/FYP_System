@@ -1,0 +1,21 @@
+# ninja log v5
+5	43	0	E:/Projects/automatedFYP/android/app/.cxx/Debug/6b414b3f/armeabi-v7a/CMakeFiles/cmake.verify_globs	313e744de5241260
+87	8226	7984720664742242	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/71e2361cfa96443c11357d9acad0794b/codegen/jni/react/renderer/components/safeareacontext/States.cpp.o	9ff9bd8c90d4f366
+75	14217	7984720724713161	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/5bcc463c7dc4109109c86402f1fd49a2/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o	c2f53efd47c8b46b
+108	19678	7984720779476174	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/30374efe66eec1020988f079a9266515/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o	3d2a0f9d30b2ea35
+7	26425	7984720846968299	CMakeFiles/appmodules.dir/OnLoad.cpp.o	2145e2a5198d361c
+33	29484	7984720877909921	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/8dc923369f7d8a7afe3513d568fc83d1/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	f41ec99100d54184
+98	30392	7984720887251392	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/5bcc463c7dc4109109c86402f1fd49a2/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	a42332e406148d67
+48	32045	7984720903602885	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/71e2361cfa96443c11357d9acad0794b/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o	96c331708c2a0ce4
+63	75201	7984721335818219	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/cf228d18705a6d817f71e9b353580dff/react/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	12e7439f6c21dcd
+19	76152	7984721345577541	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/dc70a6575278169912bedefbdff22947/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	dd4461b07a17180d
+76153	76285	7984721346912236	E:/Projects/automatedFYP/android/app/build/intermediates/cxx/Debug/6b414b3f/obj/armeabi-v7a/libreact_codegen_safeareacontext.so	7455b3259ad2e57e
+1	76325	7984721347058445	CMakeFiles/appmodules.dir/E_/Projects/automatedFYP/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	d06539a3ab2c2e67
+76326	76417	7984721348364514	E:/Projects/automatedFYP/android/app/build/intermediates/cxx/Debug/6b414b3f/obj/armeabi-v7a/libappmodules.so	d22aea590f7573b0
+4	48	0	E:/Projects/automatedFYP/android/app/.cxx/Debug/6b414b3f/armeabi-v7a/CMakeFiles/cmake.verify_globs	313e744de5241260
+2	31	0	E:/Projects/automatedFYP/android/app/.cxx/Debug/6b414b3f/armeabi-v7a/CMakeFiles/cmake.verify_globs	313e744de5241260
+5	53	0	E:/Projects/automatedFYP/android/app/.cxx/Debug/6b414b3f/armeabi-v7a/CMakeFiles/cmake.verify_globs	313e744de5241260
+3	49	0	E:/Projects/automatedFYP/android/app/.cxx/Debug/6b414b3f/armeabi-v7a/CMakeFiles/cmake.verify_globs	313e744de5241260
+4	44	0	E:/Projects/automatedFYP/android/app/.cxx/Debug/6b414b3f/armeabi-v7a/CMakeFiles/cmake.verify_globs	313e744de5241260
+3	35	0	E:/Projects/automatedFYP/android/app/.cxx/Debug/6b414b3f/armeabi-v7a/CMakeFiles/cmake.verify_globs	313e744de5241260
+2	29	0	E:/Projects/automatedFYP/android/app/.cxx/Debug/6b414b3f/armeabi-v7a/CMakeFiles/cmake.verify_globs	313e744de5241260
