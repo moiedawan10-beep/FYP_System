@@ -10,9 +10,9 @@ There are three types of users, each with their own portal.
 
 **Students** can register their FYP group, look through the available advisors, submit proposals and check their old ones. They can also download the official templates (proposal, documentation, consent form), read the FYP guidelines, see future project ideas, check their advisor's counselling hours, request a meeting and chat with their advisor.
 
-**Faculty** can accept or reject proposals, keep track of their active groups, assign evaluators, set their counselling hours and evaluate groups in Capstone I and II. They can also email or chat with students directly.
+**Faculty** can accept or reject proposals, keep track of their active groups, assign evaluators, set their counselling hours, share project ideas related to their research and evaluate groups in Capstone I and II. They can also email or chat with students directly.
 
-**Admin** manages faculty, students and groups. Faculty can be added in bulk through an Excel file, and the admin can enroll students, generate the evaluation meeting schedule for all groups automatically, create the evaluation questionnaire and post future FYP ideas.
+**Admin** manages faculty, students and groups, and can grant or remove access for any user. Faculty can be added in bulk through an Excel file, and the admin can enroll students, generate the evaluation meeting schedule for all groups automatically, create the evaluation questionnaire and post future FYP ideas.
 
 ## Built with
 
